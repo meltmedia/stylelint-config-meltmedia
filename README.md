@@ -1,6 +1,6 @@
 # stylelint-config-meltmedia
 
-This [stylelint](https://stylelint.io) config contains rules specific to how we write our CSS at [meltmedia](https://meltmedia.com). It's flexible enough to use for most projects, with rules used mostly to catch common errors, enforce explicit declarations, and ensure best practices. The ruleset was created by the HTML & CSS Guidelines team, please reach out with any suggestions for rules or feedback on your usage.
+This [stylelint](https://stylelint.io) config contains rules specific to how we write our CSS at [meltmedia](https://meltmedia.com). It's flexible enough to use for most projects, with rules used mostly to catch common errors, enforce explicit declarations, and ensure best practices. The ruleset was created by [the HTML & CSS Guidelines team](https://github.com/orgs/meltmedia/teams/html-css-guidelines), please reach out with any suggestions for rules or feedback on your usage.
 
 To see the rules that this config uses, please read [the config itself](/index.js).
 
