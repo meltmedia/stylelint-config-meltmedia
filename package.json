@@ -8,8 +8,7 @@
     "url": "git+https://github.com/meltmedia/stylelint-config-meltmedia.git"
   },
   "keywords": [
-    "stylelint",
-    "config"
+    "stylelint-config"
   ],
   "author": "meltmedia",
   "license": "MIT",
