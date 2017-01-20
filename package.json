@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-meltmedia",
+  "version": "1.0.0",
+  "description": "stylelint config for projects at meltmedia",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meltmedia/stylelint-config-meltmedia.git"
+  },
+  "keywords": [
+    "stylelint",
+    "config"
+  ],
+  "author": "meltmedia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meltmedia/stylelint-config-meltmedia/issues"
+  },
+  "homepage": "https://github.com/meltmedia/stylelint-config-meltmedia#readme",
+  "peerDependencies": {
+    "stylelint": "^7.6.0"
+  }
+}
