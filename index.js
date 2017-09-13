@@ -31,7 +31,6 @@ module.exports = {
     "selector-combinator-space-before": "always",
     "selector-max-compound-selectors": 3,
     "selector-max-specificity": "0,5,5",
-    "selector-no-id": true,
     "selector-pseudo-class-case": "lower",
     "selector-pseudo-class-no-unknown": true,
     "selector-pseudo-element-case": "lower",
