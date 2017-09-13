@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/meltmedia/stylelint-config-meltmedia#readme",
   "peerDependencies": {
-    "stylelint": "^8.1.1.0"
+    "stylelint": "^8.1.1"
   }
 }
